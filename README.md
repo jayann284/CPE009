@@ -1,5 +1,5 @@
-Final Project
-CPE009 - Object Oriented Programing
+1st Year - 2nd Sem
 
-Food Keeper
-A program that utilizes Tkinter and SQlite in order to store food recipes.
+CPE009 - Object Oriented Programing (Final Project)
+
+Food Keeper - A program that utilizes Tkinter and SQlite in order to store food recipes.
